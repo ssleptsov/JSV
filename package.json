@@ -1,5 +1,5 @@
 {
-	"name" : "JSV",
+	"name" : "jsv-fixed",
 	"version" : "4.0.2",
 	"description" : "A JavaScript implementation of a extendable, fully compliant JSON Schema validator.",
 	"homepage" : "http://github.com/garycourt/JSV",
